@@ -1,0 +1,4 @@
+﻿  Maze.cpp
+c:\users\mrtim\source\repos\maze\maze\maze.cpp(71): warning C4715: 'CheckFileIn': not all control paths return a value
+c:\users\mrtim\source\repos\maze\maze\maze.cpp(61): warning C4715: 'CheckStartData': not all control paths return a value
+  Maze.vcxproj -> C:\Users\mrtim\source\repos\Maze\Debug\Maze.exe
